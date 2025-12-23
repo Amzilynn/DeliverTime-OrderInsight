@@ -31,7 +31,7 @@ The notebook follows a structured CRISP-DM approach, covering:
 - **Models Used**: Linear Regression (initial suggestion)
 - **Evaluation Metrics**: RMSE, MAE, R²
 
-### ✅ Unsupervised Learning (Clustering)
+###  Unsupervised Learning (Clustering)
 -  **Business Objectif**: Understand customer consumption habits to optimize marketing and operations.
 - **Data Science Objectif**: Cluster orders based on:
   - Items ordered
@@ -119,3 +119,4 @@ The notebook follows a structured CRISP-DM approach, covering:
 - Measurable increase in Customer Satisfaction Score 
 - Actionable insights leading to optimized logistics and marketing strategies
 - Clear, interpretable clusters that guide business decisions
+
